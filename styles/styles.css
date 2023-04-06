@@ -62,17 +62,13 @@ text-align: left;
     text-align: center;
 }
 
-.button{
+.button {
 color: aliceblue;
 width: 216px;
 height: 68px;
-left: 740px;
-top: 663px;
-
-/* Gray 1 */
-
 background: #333333;
 }
+
 
 @media only screen and (max-width: 600px) {
     .main {
